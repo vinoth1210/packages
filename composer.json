@@ -2,7 +2,7 @@
     "name": "vinothsb/test-package",
     "description": "A short description of what your package does",
     "require": {
-        "php": ">=7.4",
+        "php": ">=7.3",
         "another-vendor/package": "1.*"
     },
     "license": "MIT"
